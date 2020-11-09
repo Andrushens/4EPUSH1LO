@@ -1,0 +1,14 @@
+C:\Users\thela\source\repos\953506\term3\dot net\lab2_service\bin\Debug\lab2_service.exe.config
+C:\Users\thela\source\repos\953506\term3\dot net\lab2_service\bin\Debug\lab2_service.exe
+C:\Users\thela\source\repos\953506\term3\dot net\lab2_service\bin\Debug\lab2_service.pdb
+C:\Users\thela\source\repos\953506\term3\dot net\lab2_service\obj\Debug\lab2_service.csprojAssemblyReference.cache
+C:\Users\thela\source\repos\953506\term3\dot net\lab2_service\obj\Debug\lab2_service.csproj.CoreCompileInputs.cache
+C:\Users\thela\source\repos\953506\term3\dot net\lab2_service\obj\Debug\lab2_service.exe
+C:\Users\thela\source\repos\953506\term3\dot net\lab2_service\obj\Debug\lab2_service.pdb
+C:\Users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\Debug\lab2_service.exe.config
+C:\Users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\Debug\lab2_service.exe
+C:\Users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\Debug\lab2_service.pdb
+C:\Users\thela\source\repos\953506\term3\dot_net\lab2_service\obj\Debug\lab2_service.csprojAssemblyReference.cache
+C:\Users\thela\source\repos\953506\term3\dot_net\lab2_service\obj\Debug\lab2_service.csproj.CoreCompileInputs.cache
+C:\Users\thela\source\repos\953506\term3\dot_net\lab2_service\obj\Debug\lab2_service.exe
+C:\Users\thela\source\repos\953506\term3\dot_net\lab2_service\obj\Debug\lab2_service.pdb

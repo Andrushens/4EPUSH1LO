@@ -1,0 +1,77 @@
+﻿Выполняется установка сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Устанавливается служба FileWatcherService...
+Создается исходный EventLog FileWatcherService в журнале Application...
+Выполняется откат для сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Восстанавливается исходное состояние журнала событий для источника FileWatcherService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.InstallLog
+   assemblypath = c:\users\thela\source\repos\953506\term3\dot_net\lab2_service\bin\debug\lab2_service.exe
